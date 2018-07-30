@@ -156,5 +156,5 @@ function formatBrook(brook) {
 
     });    
 const token = process.env.TOKEN;
-client.login('NDcwOTAzMDA0OTUwODIyOTMy.DjdEDg.RHanNvstTcTluH7AzE6IJx18ays');   
+client.login('');   
 
